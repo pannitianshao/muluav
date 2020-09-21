@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/readGPIO.dir/test_gpio.cpp.o  -o readGPIO -rdynamic lib/libgpiolibs.a 

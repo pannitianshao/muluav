@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././includes/GPIOInit.h
+stdio.h
+-
+
+/home/nvidia/work/ReadGPIO/lib/readGPIO.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+GPIOInit.h
+-
+fcntl.h
+-
+

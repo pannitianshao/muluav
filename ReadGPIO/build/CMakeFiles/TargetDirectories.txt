@@ -1,0 +1,6 @@
+/home/nvidia/work/ReadGPIO/build/CMakeFiles/edit_cache.dir
+/home/nvidia/work/ReadGPIO/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/work/ReadGPIO/build/CMakeFiles/readGPIO.dir
+/home/nvidia/work/ReadGPIO/build/lib/CMakeFiles/edit_cache.dir
+/home/nvidia/work/ReadGPIO/build/lib/CMakeFiles/rebuild_cache.dir
+/home/nvidia/work/ReadGPIO/build/lib/CMakeFiles/gpiolibs.dir

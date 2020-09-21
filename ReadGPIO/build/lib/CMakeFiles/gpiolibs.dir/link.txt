@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgpiolibs.a  CMakeFiles/gpiolibs.dir/readGPIO.cpp.o
+/usr/bin/ranlib libgpiolibs.a
